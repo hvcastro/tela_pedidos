@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/05 17:45:33.000.214,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/05 17:46:01.000.202,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=G:\projetos\pedidos\unFrmPedidos.pas</Transaction>
+    <Transaction>2021/10/05 17:46:01.000.202,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=G:\projetos\pedidos\unFrmPedidos.dfm</Transaction>
+    <Transaction>2021/10/05 17:46:05.000.939,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=G:\projetos\pedidos\pedidos.dproj</Transaction>
+    <Transaction>2021/10/05 17:55:22.000.216,=G:\projetos\pedidos\Unit1.pas</Transaction>
+    <Transaction>2021/10/05 17:55:40.000.144,G:\projetos\pedidos\Unit1.pas=G:\projetos\pedidos\unClasses.pas</Transaction>
+    <Transaction>2021/10/05 17:57:40.000.406,=G:\projetos\pedidos\Unit1.pas</Transaction>
+    <Transaction>2021/10/05 17:57:58.000.912,G:\projetos\pedidos\Unit1.dfm=G:\projetos\pedidos\unDM.dfm</Transaction>
+    <Transaction>2021/10/05 17:57:58.000.912,G:\projetos\pedidos\Unit1.pas=G:\projetos\pedidos\unDM.pas</Transaction>
+    <Transaction>2021/10/07 10:14:10.664,G:\projetos\pedidos\unClasses.pas=</Transaction>
+    <Transaction>2021/10/07 10:27:11.974,G:\projetos\pedidos\unDM.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="unFrmPedidos.pas"/>
+    <File Path="unFrmPedidos.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
